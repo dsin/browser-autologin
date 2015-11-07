@@ -46,3 +46,4 @@ if(current_url in pages){
         document.getElementById(page['submit_form_node_id']).submit();    
     }
 }
+
