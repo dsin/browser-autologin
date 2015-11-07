@@ -6,7 +6,7 @@ Installation
 -------------------------
 - Google Chrome
 
-1. open chrome://extensions/
+1. open `chrome://extensions/`
 2. drag and drop to this page
 
 - Firefox
