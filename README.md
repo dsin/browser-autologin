@@ -4,10 +4,14 @@ autologin into chrome or firefox
 
 Installation
 -------------------------
-- Google Chrome
+`git clone git@github.com:dsin/browser-autologin.git`
 
+- Google Chrome
+Steps
 1. open `chrome://extensions/`
-2. drag and drop to this page
+2. enable `developer mode`
+3. click `load unpacked`
+4. pick the folder that contains `autologin.user.js` and `manifest.json`
 
 - Firefox
 
